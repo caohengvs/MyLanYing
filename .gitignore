@@ -360,3 +360,7 @@ MigrationBackup/
  
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# 文档文件
+*.doc
+*.docx
